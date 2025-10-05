@@ -704,6 +704,7 @@ body {
   .footer .container {
     flex-wrap: nowrap;
     padding-left: 15px;
+    gap: 0;
   }
 }
 
