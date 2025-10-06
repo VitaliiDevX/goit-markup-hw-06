@@ -634,10 +634,6 @@ body {
 }
 
 .overlay-text {
-  display: none;
-}
-
-.overlay-text {
   display: block;
   position: absolute;
   top: 0;
