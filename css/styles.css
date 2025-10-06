@@ -146,7 +146,6 @@ body {
 
   .contacts {
     display: flex;
-    column-gap: 18px;
     font-style: normal;
   }
 }
